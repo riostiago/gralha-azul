@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "sorteio"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "pwa-msedge",
+				"request": "launch",
+				"name": "Open Untitled-1",
+				"file": "Untitled-1"
+			}
+		]
+	}
+}
